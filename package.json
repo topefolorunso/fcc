@@ -1,27 +1,8 @@
-// {
-//     "name": "fcc-sample",
-//     "version": "0.1.0",
-//     "author": {
-//         "name": "Tope",
-//         "email": "folorunsotemitope10@gmail.com"
-//     }
-// }
-
 {
-    "name": "fcc-learn-npm-package-json",
-    "author": "foobar",
-    "dependencies": {
-      "express": "^4.14.0"
-    },
-    "main": "server.js",
-    "scripts": {
-      "start": "node server.js"
-    },
-    "engines": {
-      "node": "8.11.2"
-    },
-    "repository": {
-      "type": "git",
-      "url": "https://idontknow/todo.git"
+    "name": "fcc-sample",
+    "version": "0.1.0",
+    "author": {
+        "name": "Tope",
+        "email": "folorunsotemitope10@gmail.com"
     }
-  }
+}
